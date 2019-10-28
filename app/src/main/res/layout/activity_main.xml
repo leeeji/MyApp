@@ -11,7 +11,7 @@
         android:id="@+id/out"
         android:layout_width="match_parent"
         android:layout_height="70dp"
-        android:text="TextView" />
+        android:text="温度转换器" />
 
     <EditText
         android:id="@+id/inp"
@@ -22,6 +22,6 @@
         android:id="@+id/btn"
         android:layout_width="match_parent"
         android:layout_height="88dp"
-        android:text="Button" />
+        android:text="转换为华氏度" />
 
 </LinearLayout>

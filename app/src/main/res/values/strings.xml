@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">MyApp</string>
+    <string name="btntmp_label">Click</string>
+    <string name="hint">Input...</string>
+    <string name="txt_result">Result:</string>
+    <string name="btn1_label">1分</string>
+    <string name="btn2_label">2分</string>
+    <string name="btn3_label">3分</string>
+    <string name="btnReset">归零</string>
+    <string name="txt_4_1"></string>
+    <string name="view_4_1"></string>
+    <string name="btn_4_1">DOLLAR</string>
+    <string name="btn_4_2">EURO</string>
+    <string name="btn_4_3">WON</string>
+    <string name="btn_4_4">CONFIG</string>
+    <string name="btn_save_label">Save</string>
+    <string name="menu_set_label">Setting</string>
+    <string name="label_open_list">Openlist</string>
 </resources>
